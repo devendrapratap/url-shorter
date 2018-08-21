@@ -1,0 +1,17 @@
+{
+    "name": "url-shortner",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {},
+    "keywords": [
+        "url",
+        "node",
+        "shortner"
+    ],
+    "author": {
+        "name": "Devendra Pratap",
+        "email": "dps.manit@gmail.com"
+    },
+    "license": "ISC"
+}
